@@ -23,11 +23,11 @@
     margin: auto;
 }
 body {
-    background: #73b00a;
-    color: burlywood;
 
+    background: #0f3a69;
+    color: burlywood;
     
 }
 p{
-    color:brown;
+    color:rgb(221, 49, 147);
 }
